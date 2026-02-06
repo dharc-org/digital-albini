@@ -4,4 +4,5 @@ Digital Albini is an ongoing project which aims to digitise, organise, study and
 
 ## Datasets
 ### The letters dataset
-The <code>\letters_dataset</code> contains input, processing, and output files of the  Giuseppe Albini Archive letters. In particular, the file <code>\letters_dataset\data\output\letters_kg.ttl</code> stores the knowledge graph of the letters. Please refer to the file <code>\letters_dataset\Documentation.md</code> for the full documentation of the data conversion process used to produce the output knowledge graph.
+- The <code>\letters_dataset</code> contains input, processing, and output files of the  Giuseppe Albini Archive letters.
+- In particular, the file <code>\letters_dataset\data\output\letters_kg.ttl</code> stores the knowledge graph of the letters. Please refer to the file <code>\letters_dataset\Documentation.md</code> for the full documentation of the data conversion process used to produce the output knowledge graph.
