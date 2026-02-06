@@ -223,5 +223,5 @@ All local entities use the base namespace: `http://www.w3.org/ns/DigitalAlbini#`
 
 **Last Updated:** February 2025  
 **Version:** 1.0  
-**Maintainer:** Digital Albini Project Team  
-**Institution:** University of Bologna - FICLIT
+**Maintainer:** Digital Humanities Advanced Research Center (/DH.arc)
+**Institution:** Department of Classical Philology and Italian Studies, University of Bologna
